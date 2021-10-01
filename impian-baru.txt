@@ -1,7 +1,8 @@
 Impian baru :
  - Menghajikan orang tua
  - membangun rumah
-    ^ kota
-    ^ Pedesaan
+    ^ perumahan
+    ^ mewah
  - Membeli mobil
  - Membeli motor
+ - Membeli sawah
